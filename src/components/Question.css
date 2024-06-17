@@ -1,0 +1,10 @@
+.question {
+    margin: 20px;
+}
+.feedback {
+    font-size: 1.2em;
+    color: green;
+}
+.feedback.wrong {
+    color: red;
+}
